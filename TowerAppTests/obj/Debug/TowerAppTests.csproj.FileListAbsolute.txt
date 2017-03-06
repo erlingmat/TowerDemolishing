@@ -1,0 +1,8 @@
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\bin\Debug\TowerAppTests.dll
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\bin\Debug\TowerAppTests.pdb
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\bin\Debug\TowerApp.exe
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\bin\Debug\TowerApp.pdb
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\obj\Debug\TowerAppTests.csprojResolveAssemblyReference.cache
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\obj\Debug\TowerAppTests.dll
+C:\Users\emm\Documents\Projects\TowerDemolishing\TowerAppTests\obj\Debug\TowerAppTests.pdb
